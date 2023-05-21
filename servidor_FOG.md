@@ -1,4 +1,4 @@
-# Pràctica servidor FOG feta per Aleix Ora:
+# Pràctica servidor FOG feta per **Aleix Oraà** i **Joel Iglesias**:
 
 ## Instal·lar i configurar un servidor FOG
 - Primer ens descarreguem l'arxiu ***fogproject-1.5.10.tar.gz***:
