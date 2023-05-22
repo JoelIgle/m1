@@ -168,8 +168,10 @@
 
 ![imatge](https://github.com/JoelIgle/m1/assets/114901284/bc249a2e-5ed1-443f-bf26-dea5bbc8a59e)
 
-- Al reiniciar la màquina ens surt un error, **no hem pogut arreglar-lo**
+- Al reiniciar la màquina ja ens surt l'ubuntu
 
-![imatge](https://github.com/JoelIgle/m1/assets/114901284/08a21090-2d1d-4170-a5a9-66d8ebccbaa6)
+![imatge](https://github.com/JoelIgle/m1/assets/114901284/fe061f49-2234-4fdb-816b-268747c0b3d8)
+
+-***La captura última pertany a una màquina diferent, en la qual hem repetit tot el proçes (devant de Tomàs) ja que en la anterior no funcionava, però les captures són el mateix que hem fet a aquesta***
 
 ## Llençar un paquet per a que s'instal·li als clients
