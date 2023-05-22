@@ -166,7 +166,7 @@
 
 - Se fa la instal·lació de l'ubuntu
 
-![imatge](https://github.com/JoelIgle/m1/assets/114901284/527e3b06-429c-4d3b-a18f-3c9860e90658)
+![imatge](https://github.com/JoelIgle/m1/assets/114901284/bc249a2e-5ed1-443f-bf26-dea5bbc8a59e)
 
 - Al reiniciar la màquina ens surt un error, **no hem pogut arreglar-lo**
 
