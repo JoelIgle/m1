@@ -46,4 +46,7 @@ I aqui igual, aquesta:
 
 ![imatge](https://github.com/JoelIgle/m1/assets/114901284/b4f11eda-4b67-4505-851b-f2a9c82ff3ce)
 
-***He afegit les captures que faltaven, demostrant que al fer el update i install es feia del repositori, mostrant les ip***
+***He afegit les captures que faltaven, demostrant que al fer el update i install es feia del repositori, mostrant les ip, apart puc fer PING a aquella IP, es a dir al servidor:***
+
+![imatge](https://github.com/JoelIgle/m1/assets/114901284/bf9fbd50-62f6-4009-aab0-4fdf8f95433d)
+
