@@ -1,1 +1,1 @@
-
+#Instal·lació desatesa
